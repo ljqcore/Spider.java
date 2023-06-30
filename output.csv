@@ -1,0 +1,55 @@
+url,crawl_time,sensWord,freq,level
+http://ajiang.net/ ,2023-06-10 22:27:03,你,2,中风险词
+http://ajiang.net/ ,2023-06-10 22:27:03,我,7,低风险词
+http://ajiang.net/ ,2023-06-10 22:27:03,正则,0,高风险词
+http://ajiang.net/ ,2023-06-10 22:27:03,淘宝,0,高风险词
+http://ajiang.net/ ,2023-06-10 22:27:03,第一,0,高风险词
+http://ajiang.net/ ,2023-06-10 22:27:03,这个,0,高风险词
+https://3w.huanqiu.com/a/c36dc8/4DFgqSTA5pL?agt=128,2023-06-11 08:36:14,你,0,中风险词
+https://3w.huanqiu.com/a/c36dc8/4DFgqSTA5pL?agt=128,2023-06-11 08:36:14,变形金刚,0,中风险词
+https://3w.huanqiu.com/a/c36dc8/4DFgqSTA5pL?agt=128,2023-06-11 08:36:14,我,0,低风险词
+https://3w.huanqiu.com/a/c36dc8/4DFgqSTA5pL?agt=128,2023-06-11 08:36:14,正则,0,高风险词
+https://3w.huanqiu.com/a/c36dc8/4DFgqSTA5pL?agt=128,2023-06-11 08:36:14,淘宝,0,高风险词
+https://3w.huanqiu.com/a/c36dc8/4DFgqSTA5pL?agt=128,2023-06-11 08:36:14,第一,0,高风险词
+https://3w.huanqiu.com/a/c36dc8/4DFgqSTA5pL?agt=128,2023-06-11 08:36:14,美国,7,中风险词
+https://3w.huanqiu.com/a/c36dc8/4DFgqSTA5pL?agt=128,2023-06-11 08:36:14,这个,0,高风险词
+https://tb.alicdn.com/,2023-06-11 09:23:17,你,0,中风险词
+https://tb.alicdn.com/,2023-06-11 09:23:17,变形金刚,0,中风险词
+https://tb.alicdn.com/,2023-06-11 09:23:17,我,1,低风险词
+https://tb.alicdn.com/,2023-06-11 09:23:17,正则,0,高风险词
+https://tb.alicdn.com/,2023-06-11 09:23:17,淘宝,4,高风险词
+https://tb.alicdn.com/,2023-06-11 09:23:17,第一,0,高风险词
+https://tb.alicdn.com/,2023-06-11 09:23:17,美国,0,中风险词
+https://tb.alicdn.com/,2023-06-11 09:23:17,这个,0,高风险词
+https://www.baidu.com/,2023-06-11 09:23:17,你,1,中风险词
+https://www.baidu.com/,2023-06-11 09:23:17,变形金刚,0,中风险词
+https://www.baidu.com/,2023-06-11 09:23:17,我,0,低风险词
+https://www.baidu.com/,2023-06-11 09:23:17,正则,0,高风险词
+https://www.baidu.com/,2023-06-11 09:23:17,淘宝,0,高风险词
+https://www.baidu.com/,2023-06-11 09:23:17,第一,0,高风险词
+https://www.baidu.com/,2023-06-11 09:23:17,美国,0,中风险词
+https://www.baidu.com/,2023-06-11 09:23:17,这个,0,高风险词
+https://www.icourse163.org/,2023-06-11 09:23:18,你,0,中风险词
+https://www.icourse163.org/,2023-06-11 09:23:18,变形金刚,0,中风险词
+https://www.icourse163.org/,2023-06-11 09:23:18,我,7,低风险词
+https://www.icourse163.org/,2023-06-11 09:23:18,正则,0,高风险词
+https://www.icourse163.org/,2023-06-11 09:23:18,淘宝,0,高风险词
+https://www.icourse163.org/,2023-06-11 09:23:18,第一,0,高风险词
+https://www.icourse163.org/,2023-06-11 09:23:18,美国,0,中风险词
+https://www.icourse163.org/,2023-06-11 09:23:18,这个,0,高风险词
+https://www.msn.cn/zh-cn/news/national/%E5%8F%98%E5%BD%A2%E9%87%91%E5%88%9A-%E8%B6%85%E8%83%BD%E5%8B%87%E5%A3%AB%E5%B4%9B%E8%B5%B7-%E4%BB%8A%E6%97%A5%E4%B8%8A%E6%98%A0-%E5%8F%B2%E8%AF%97%E4%BA%A4%E9%94%8B%E5%BC%80%E6%88%98%E6%8E%80%E7%8B%82%E6%BD%AE%E5%B8%AD%E5%8D%B7%E9%93%B6%E5%B9%95/ar-AA1ck30s?ocid=msedgntp&pc=EDGENTP&cvid=4aa0ecef192140f2bedd2d964b4c9fd6&ei=38,2023-06-11 09:23:18,你,1,中风险词
+https://www.msn.cn/zh-cn/news/national/%E5%8F%98%E5%BD%A2%E9%87%91%E5%88%9A-%E8%B6%85%E8%83%BD%E5%8B%87%E5%A3%AB%E5%B4%9B%E8%B5%B7-%E4%BB%8A%E6%97%A5%E4%B8%8A%E6%98%A0-%E5%8F%B2%E8%AF%97%E4%BA%A4%E9%94%8B%E5%BC%80%E6%88%98%E6%8E%80%E7%8B%82%E6%BD%AE%E5%B8%AD%E5%8D%B7%E9%93%B6%E5%B9%95/ar-AA1ck30s?ocid=msedgntp&pc=EDGENTP&cvid=4aa0ecef192140f2bedd2d964b4c9fd6&ei=38,2023-06-11 09:23:18,变形金刚,13,中风险词
+https://www.msn.cn/zh-cn/news/national/%E5%8F%98%E5%BD%A2%E9%87%91%E5%88%9A-%E8%B6%85%E8%83%BD%E5%8B%87%E5%A3%AB%E5%B4%9B%E8%B5%B7-%E4%BB%8A%E6%97%A5%E4%B8%8A%E6%98%A0-%E5%8F%B2%E8%AF%97%E4%BA%A4%E9%94%8B%E5%BC%80%E6%88%98%E6%8E%80%E7%8B%82%E6%BD%AE%E5%B8%AD%E5%8D%B7%E9%93%B6%E5%B9%95/ar-AA1ck30s?ocid=msedgntp&pc=EDGENTP&cvid=4aa0ecef192140f2bedd2d964b4c9fd6&ei=38,2023-06-11 09:23:18,我,0,低风险词
+https://www.msn.cn/zh-cn/news/national/%E5%8F%98%E5%BD%A2%E9%87%91%E5%88%9A-%E8%B6%85%E8%83%BD%E5%8B%87%E5%A3%AB%E5%B4%9B%E8%B5%B7-%E4%BB%8A%E6%97%A5%E4%B8%8A%E6%98%A0-%E5%8F%B2%E8%AF%97%E4%BA%A4%E9%94%8B%E5%BC%80%E6%88%98%E6%8E%80%E7%8B%82%E6%BD%AE%E5%B8%AD%E5%8D%B7%E9%93%B6%E5%B9%95/ar-AA1ck30s?ocid=msedgntp&pc=EDGENTP&cvid=4aa0ecef192140f2bedd2d964b4c9fd6&ei=38,2023-06-11 09:23:18,正则,0,高风险词
+https://www.msn.cn/zh-cn/news/national/%E5%8F%98%E5%BD%A2%E9%87%91%E5%88%9A-%E8%B6%85%E8%83%BD%E5%8B%87%E5%A3%AB%E5%B4%9B%E8%B5%B7-%E4%BB%8A%E6%97%A5%E4%B8%8A%E6%98%A0-%E5%8F%B2%E8%AF%97%E4%BA%A4%E9%94%8B%E5%BC%80%E6%88%98%E6%8E%80%E7%8B%82%E6%BD%AE%E5%B8%AD%E5%8D%B7%E9%93%B6%E5%B9%95/ar-AA1ck30s?ocid=msedgntp&pc=EDGENTP&cvid=4aa0ecef192140f2bedd2d964b4c9fd6&ei=38,2023-06-11 09:23:18,淘宝,0,高风险词
+https://www.msn.cn/zh-cn/news/national/%E5%8F%98%E5%BD%A2%E9%87%91%E5%88%9A-%E8%B6%85%E8%83%BD%E5%8B%87%E5%A3%AB%E5%B4%9B%E8%B5%B7-%E4%BB%8A%E6%97%A5%E4%B8%8A%E6%98%A0-%E5%8F%B2%E8%AF%97%E4%BA%A4%E9%94%8B%E5%BC%80%E6%88%98%E6%8E%80%E7%8B%82%E6%BD%AE%E5%B8%AD%E5%8D%B7%E9%93%B6%E5%B9%95/ar-AA1ck30s?ocid=msedgntp&pc=EDGENTP&cvid=4aa0ecef192140f2bedd2d964b4c9fd6&ei=38,2023-06-11 09:23:18,第一,0,高风险词
+https://www.msn.cn/zh-cn/news/national/%E5%8F%98%E5%BD%A2%E9%87%91%E5%88%9A-%E8%B6%85%E8%83%BD%E5%8B%87%E5%A3%AB%E5%B4%9B%E8%B5%B7-%E4%BB%8A%E6%97%A5%E4%B8%8A%E6%98%A0-%E5%8F%B2%E8%AF%97%E4%BA%A4%E9%94%8B%E5%BC%80%E6%88%98%E6%8E%80%E7%8B%82%E6%BD%AE%E5%B8%AD%E5%8D%B7%E9%93%B6%E5%B9%95/ar-AA1ck30s?ocid=msedgntp&pc=EDGENTP&cvid=4aa0ecef192140f2bedd2d964b4c9fd6&ei=38,2023-06-11 09:23:18,美国,3,中风险词
+https://www.msn.cn/zh-cn/news/national/%E5%8F%98%E5%BD%A2%E9%87%91%E5%88%9A-%E8%B6%85%E8%83%BD%E5%8B%87%E5%A3%AB%E5%B4%9B%E8%B5%B7-%E4%BB%8A%E6%97%A5%E4%B8%8A%E6%98%A0-%E5%8F%B2%E8%AF%97%E4%BA%A4%E9%94%8B%E5%BC%80%E6%88%98%E6%8E%80%E7%8B%82%E6%BD%AE%E5%B8%AD%E5%8D%B7%E9%93%B6%E5%B9%95/ar-AA1ck30s?ocid=msedgntp&pc=EDGENTP&cvid=4aa0ecef192140f2bedd2d964b4c9fd6&ei=38,2023-06-11 09:23:18,这个,0,高风险词
+https://www.msn.cn/zh-cn/news/other/%E7%89%B9%E6%96%AF%E6%8B%89-%E6%88%91%E4%B8%8D%E6%80%95%E4%BB%BB%E4%BD%95%E4%B8%80%E4%B8%AA%E5%AF%B9%E6%89%8B-%E6%9C%80%E5%90%8E%E5%8D%B4%E8%BE%93%E7%BB%99%E4%BA%86-%E9%9B%B7%E5%86%9B%E5%AF%B9%E6%AF%94%E6%B3%95/ar-AA1cnD8c?ocid=msedgntp&cvid=08b0c8bcff6f49b4841b02da0b1e2cc0&ei=7,2023-06-11 10:36:06,你,1,中风险词
+https://www.msn.cn/zh-cn/news/other/%E7%89%B9%E6%96%AF%E6%8B%89-%E6%88%91%E4%B8%8D%E6%80%95%E4%BB%BB%E4%BD%95%E4%B8%80%E4%B8%AA%E5%AF%B9%E6%89%8B-%E6%9C%80%E5%90%8E%E5%8D%B4%E8%BE%93%E7%BB%99%E4%BA%86-%E9%9B%B7%E5%86%9B%E5%AF%B9%E6%AF%94%E6%B3%95/ar-AA1cnD8c?ocid=msedgntp&cvid=08b0c8bcff6f49b4841b02da0b1e2cc0&ei=7,2023-06-11 10:36:06,变形金刚,0,中风险词
+https://www.msn.cn/zh-cn/news/other/%E7%89%B9%E6%96%AF%E6%8B%89-%E6%88%91%E4%B8%8D%E6%80%95%E4%BB%BB%E4%BD%95%E4%B8%80%E4%B8%AA%E5%AF%B9%E6%89%8B-%E6%9C%80%E5%90%8E%E5%8D%B4%E8%BE%93%E7%BB%99%E4%BA%86-%E9%9B%B7%E5%86%9B%E5%AF%B9%E6%AF%94%E6%B3%95/ar-AA1cnD8c?ocid=msedgntp&cvid=08b0c8bcff6f49b4841b02da0b1e2cc0&ei=7,2023-06-11 10:36:06,我,5,低风险词
+https://www.msn.cn/zh-cn/news/other/%E7%89%B9%E6%96%AF%E6%8B%89-%E6%88%91%E4%B8%8D%E6%80%95%E4%BB%BB%E4%BD%95%E4%B8%80%E4%B8%AA%E5%AF%B9%E6%89%8B-%E6%9C%80%E5%90%8E%E5%8D%B4%E8%BE%93%E7%BB%99%E4%BA%86-%E9%9B%B7%E5%86%9B%E5%AF%B9%E6%AF%94%E6%B3%95/ar-AA1cnD8c?ocid=msedgntp&cvid=08b0c8bcff6f49b4841b02da0b1e2cc0&ei=7,2023-06-11 10:36:06,正则,0,高风险词
+https://www.msn.cn/zh-cn/news/other/%E7%89%B9%E6%96%AF%E6%8B%89-%E6%88%91%E4%B8%8D%E6%80%95%E4%BB%BB%E4%BD%95%E4%B8%80%E4%B8%AA%E5%AF%B9%E6%89%8B-%E6%9C%80%E5%90%8E%E5%8D%B4%E8%BE%93%E7%BB%99%E4%BA%86-%E9%9B%B7%E5%86%9B%E5%AF%B9%E6%AF%94%E6%B3%95/ar-AA1cnD8c?ocid=msedgntp&cvid=08b0c8bcff6f49b4841b02da0b1e2cc0&ei=7,2023-06-11 10:36:06,淘宝,0,高风险词
+https://www.msn.cn/zh-cn/news/other/%E7%89%B9%E6%96%AF%E6%8B%89-%E6%88%91%E4%B8%8D%E6%80%95%E4%BB%BB%E4%BD%95%E4%B8%80%E4%B8%AA%E5%AF%B9%E6%89%8B-%E6%9C%80%E5%90%8E%E5%8D%B4%E8%BE%93%E7%BB%99%E4%BA%86-%E9%9B%B7%E5%86%9B%E5%AF%B9%E6%AF%94%E6%B3%95/ar-AA1cnD8c?ocid=msedgntp&cvid=08b0c8bcff6f49b4841b02da0b1e2cc0&ei=7,2023-06-11 10:36:06,第一,1,高风险词
+https://www.msn.cn/zh-cn/news/other/%E7%89%B9%E6%96%AF%E6%8B%89-%E6%88%91%E4%B8%8D%E6%80%95%E4%BB%BB%E4%BD%95%E4%B8%80%E4%B8%AA%E5%AF%B9%E6%89%8B-%E6%9C%80%E5%90%8E%E5%8D%B4%E8%BE%93%E7%BB%99%E4%BA%86-%E9%9B%B7%E5%86%9B%E5%AF%B9%E6%AF%94%E6%B3%95/ar-AA1cnD8c?ocid=msedgntp&cvid=08b0c8bcff6f49b4841b02da0b1e2cc0&ei=7,2023-06-11 10:36:06,美国,0,中风险词
+https://www.msn.cn/zh-cn/news/other/%E7%89%B9%E6%96%AF%E6%8B%89-%E6%88%91%E4%B8%8D%E6%80%95%E4%BB%BB%E4%BD%95%E4%B8%80%E4%B8%AA%E5%AF%B9%E6%89%8B-%E6%9C%80%E5%90%8E%E5%8D%B4%E8%BE%93%E7%BB%99%E4%BA%86-%E9%9B%B7%E5%86%9B%E5%AF%B9%E6%AF%94%E6%B3%95/ar-AA1cnD8c?ocid=msedgntp&cvid=08b0c8bcff6f49b4841b02da0b1e2cc0&ei=7,2023-06-11 10:36:06,这个,0,高风险词
